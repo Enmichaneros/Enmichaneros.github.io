@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/Enmichaneros/enmichaneros.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there! My name is Michelle Anne Roxas, and I am a second year Computer Science and Applied Statistics major at New Jersey Institute of Technology.
+I may not be that experienced yet, but I have a passion for data science and big data, and a extremely diligent work ethic that is more than apparent in my academic achievements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Background
 
-### Markdown
+### Education
+* Cumulative GPA: 4.0
+* Fall Major Relevant Courses:
+  * Data Structures and Algorithms
+  * Elementary Probability and Statistics
+* Spring Major Relevant Courses:
+  * Computer Organization and Architecture
+  * Programming Language Concepts
+  * Differential Equations
+  * Statistical Methods II
+  
+### Work Experience
+* Nothing here...yet! (As of writing this, I'm currently waiting for a response to my applications for research assistant and CS teaching assistant!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills and Abilities
+* Java - 2-3 years learning experience
+* Python - 2-3 years learning experience
+* HTML/CSS/Javascript - working knowledge
+* SQL/MySQL - working knowledge
+* R - working knowledge
 
-```markdown
-Syntax highlighted code block
+* Other Experience:
+  * Microsoft Office Suite
+  * Git/Github
+  * Android
+  * Windows XP/7/8/10
+  * Average typing speed: 75-80 wpm
 
-# Header 1
-## Header 2
-### Header 3
+### Extracurriculars
+* Professional Organizations:
+  * Society of Women Engineers - National Member
+  * Association for Computing Machinery - National Member
+  * Women in Computing Society - Local Member
+  * Toastmasters International - Founding Member of NJIT Chapter
+* Community Service:
+  * JerseySTEM: Volunteer Instructor (2016)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Enmichaneros/enmichaneros.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Portfolio
+* I don't have any formal projects...yet. You can find my small contributions to Github [here.](https://github.com/Enmichaneros)
+* You can also find my resume [here.]()
