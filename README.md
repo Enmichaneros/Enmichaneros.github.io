@@ -25,7 +25,6 @@ I may not be that experienced yet, but I have a passion for data science and big
 * HTML/CSS/Javascript - working knowledge
 * SQL/MySQL - working knowledge
 * R - working knowledge
-
 * Other Experience:
   * Microsoft Office Suite
   * Git/Github
