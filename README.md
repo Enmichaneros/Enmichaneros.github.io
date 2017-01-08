@@ -7,14 +7,15 @@ I may not be that experienced yet, but I have a passion for data science and big
 
 ### Education
 * Cumulative GPA: 4.0
-* Fall Major Relevant Courses:
-  * Data Structures and Algorithms
-  * Elementary Probability and Statistics
-* Spring Major Relevant Courses:
-  * Computer Organization and Architecture
-  * Programming Language Concepts
-  * Differential Equations
-  * Statistical Methods II
+* Relevant Courses: 
+  * Fall 2016:
+    * Data Structures and Algorithms
+    * Elementary Probability and Statistics
+  * Spring 2017:
+    * Computer Organization and Architecture
+    * Programming Language Concepts
+    * Differential Equations
+    * Statistical Methods II
   
 ### Work Experience
 * Nothing here...yet! (As of writing this, I'm currently waiting for a response to my applications for research assistant and CS teaching assistant!)
