@@ -44,4 +44,4 @@ I may not be that experienced yet, but I have a passion for data science and big
 
 ## Portfolio
 * I don't have any formal projects...yet. You can find my small contributions to Github [here.](https://github.com/Enmichaneros)
-* You can also find my resume [here.]()
+* You can also find my resume [here.](\resume.pdf)
